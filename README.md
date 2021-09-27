@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/henriquellima?tab=repositories](https://github.com/henriquellima?tab=repositories)
 
-- 📫 **henrique1.7mu@hotmail.com**
+- 📫   **henrique1.7mu@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
